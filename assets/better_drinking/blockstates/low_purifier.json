@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "state=0": { "model": "better_drinking:block/low_purifier" },
+    "state=1": { "model": "better_drinking:block/low_purifier_loaded" }
+  }
+}

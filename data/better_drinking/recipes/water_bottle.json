@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:glass" }
+  ],
+  "result": { "item": "better_drinking:water_bottle", "count": 1 }
+}

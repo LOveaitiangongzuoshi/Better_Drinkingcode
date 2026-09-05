@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    "G G",
+    "SSS"
+  ],
+  "key": {
+    "S": { "item": "minecraft:stick" },
+    "G": { "item": "minecraft:glass" }
+  },
+  "result": { "item": "better_drinking:low_purifier", "count": 1 }
+}

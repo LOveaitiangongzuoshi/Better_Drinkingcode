@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "better_drinking:item/plastic_cup_1500" }
+}

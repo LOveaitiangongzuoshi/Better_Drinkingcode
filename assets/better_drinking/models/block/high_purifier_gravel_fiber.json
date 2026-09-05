@@ -1,0 +1,12 @@
+{
+  "textures": {
+    "side": "better_drinking:block/high_purifier",
+    "first": "better_drinking:block/filter_gravel",
+    "second": "better_drinking:block/filter_fiber"
+  },
+  "elements": [
+    { "from": [0, 0, 0], "to": [16, 13, 16], "faces": { "down": { "texture": "#side" }, "up": { "texture": "#side" }, "north": { "texture": "#side" }, "south": { "texture": "#side" }, "west": { "texture": "#side" }, "east": { "texture": "#side" } } },
+    { "from": [1, 13, 1], "to": [8, 16, 15], "faces": { "down": { "texture": "#side" }, "up": { "texture": "#first" }, "north": { "texture": "#first" }, "south": { "texture": "#first" }, "west": { "texture": "#first" }, "east": { "texture": "#first" } } },
+    { "from": [8, 13, 1], "to": [15, 16, 15], "faces": { "down": { "texture": "#side" }, "up": { "texture": "#second" }, "north": { "texture": "#second" }, "south": { "texture": "#second" }, "west": { "texture": "#second" }, "east": { "texture": "#second" } } }
+  ]
+}

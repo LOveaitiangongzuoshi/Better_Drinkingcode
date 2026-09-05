@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "GFG",
+    "IRI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "G": { "item": "minecraft:glass" },
+    "F": { "item": "better_drinking:fiber" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "result": { "item": "better_drinking:water_dispenser", "count": 1 }
+}

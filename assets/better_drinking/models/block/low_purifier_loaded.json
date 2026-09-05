@@ -1,0 +1,6 @@
+{
+  "parent": "better_drinking:block/low_purifier",
+  "textures": {
+    "material": "better_drinking:block/filter_fiber"
+  }
+}

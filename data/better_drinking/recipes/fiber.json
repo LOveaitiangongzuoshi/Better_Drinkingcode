@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WWW",
+    "WWW"
+  ],
+  "key": {
+    "W": { "tag": "minecraft:wool" }
+  },
+  "result": { "item": "better_drinking:fiber", "count": 1 }
+}

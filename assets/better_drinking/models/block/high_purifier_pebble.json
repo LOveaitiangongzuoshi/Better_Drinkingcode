@@ -1,0 +1,4 @@
+{
+  "parent": "better_drinking:block/high_purifier",
+  "textures": { "material": "better_drinking:item/pebble" }
+}

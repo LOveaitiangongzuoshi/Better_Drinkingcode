@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "better_drinking:plastic" },
+    { "item": "better_drinking:plastic" },
+    { "item": "better_drinking:plastic" },
+    { "item": "better_drinking:plastic" },
+    { "item": "better_drinking:plastic" },
+    { "item": "better_drinking:plastic" }
+  ],
+  "result": { "item": "better_drinking:plastic_cup_1000", "count": 1 }
+}

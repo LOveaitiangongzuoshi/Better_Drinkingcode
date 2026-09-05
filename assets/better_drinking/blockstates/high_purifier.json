@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "state=0": { "model": "better_drinking:block/high_purifier" },
+    "state=1": { "model": "better_drinking:block/high_purifier_fiber" },
+    "state=2": { "model": "better_drinking:block/high_purifier_sand" },
+    "state=3": { "model": "better_drinking:block/high_purifier_gravel" },
+    "state=4": { "model": "better_drinking:block/high_purifier_pebble" },
+    "state=5": { "model": "better_drinking:block/high_purifier_gravel_pebble" },
+    "state=6": { "model": "better_drinking:block/high_purifier_gravel_sand" },
+    "state=7": { "model": "better_drinking:block/high_purifier_gravel_fiber" },
+    "state=8": { "model": "better_drinking:block/high_purifier_fiber_sand" },
+    "state=9": { "model": "better_drinking:block/high_purifier_sand_pebble" },
+    "state=10": { "model": "better_drinking:block/high_purifier_pebble_fiber" }
+  }
+}

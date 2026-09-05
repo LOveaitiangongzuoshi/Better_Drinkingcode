@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "filled=false": { "model": "better_drinking:block/water_dispenser" },
+    "filled=true": { "model": "better_drinking:block/water_dispenser_filled" }
+  }
+}

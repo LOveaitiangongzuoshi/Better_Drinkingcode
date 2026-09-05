@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "better_drinking",
+  "version": "1.0.2-r33",
+  "name": "更好的饮水",
+  "description": "口渴度、净水器与可重复饮用水杯", 
+  "icon": "assets/better_drinking/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cn.blockforge.generated.better_drinking.GeneratedMod"
+    ],
+    "better_drinking:api": [],
+    "client": [
+      "cn.blockforge.generated.better_drinking.client.GeneratedModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
